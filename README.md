@@ -14,9 +14,6 @@ Code to plot the filtered data. Enter  *load "gnuplot_script_smooth_filter.txt"*
 ## sample_data.txt
 Sample data that will be smoothed and plotted
 
-# Code Style & Installation
-Coded in C++. Compilation can be done via the command "g++ Reinforcment_Learning_Policy_Iteration.cpp"
-
 # External Libraries/tools Used
 The Library Eigen was utilized for this project and the tool gnuplot was used for plotting the outputted data
 
