@@ -1,0 +1,3 @@
+set title "Savitzky–Golay filter with N = 4, M = 65"
+unset key
+plot [0:2048] "fft_data.txt" using 1 with linespoints lw 1, [0:2048] "FINAL_DATA.txt" using 2 with linespoints lw 2
