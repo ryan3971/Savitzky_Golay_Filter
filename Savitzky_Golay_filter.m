@@ -1,8 +1,8 @@
-% This matlab code applies the Savitzky–Golay filter using the sgolay
+% This matlab code applies the Savitzkyâ€“Golay filter using the sgolay
 % function. Was used to verify the code produced in c++ using the Eigen
 % library
 
-y = importdata("fft_data.txt");
+y = importdata("sample_data.txt");
 N = 4;
 M = 65;
  
